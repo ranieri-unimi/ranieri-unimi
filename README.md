@@ -1,9 +1,6 @@
-### tl;dr:
-18 academic projects + 2 theses
-
 ### hola! 👋🏽
 
-Welcome in `ranieri-unimi`'s museum 🎨 You will explore the blazing past of a chaotic-neutral student
+Welcome in `ranieri-unimi`'s museum 🎨 You will explore the blazing past of a chaotic-neutral student (18 academic projects + 2 theses)
 
 💃🏽👋🏽✨🫖
 
